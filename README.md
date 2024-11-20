@@ -7,7 +7,7 @@
 ---
 ## **Instructions**
 1. Click on `Accept Assignment` at the link posted on Moodle. This is equivalent to forking the repository.</font>
-2. Navigate to the repository you just forked. It should be named `pa8-<your-github-username>`
+2. Navigate to the repository you just forked. It should be named `pa9-<your-github-username>`
 3. Click on the green `Code` button. Click on SSH tab and copy the SSH link (it is important to use SSH and not HTTPS).
 4. Open the terminal on your computer and navigate to the folder where you want to clone the repository.
 5. Run `git clone <copied-ssh-link>`. Replace `<copied-ssh-link>` with the link you copied in step 3.
@@ -43,7 +43,7 @@ In total, you are to implement four methods in the `Graph` interface.
 
 ### 1a. Shortest Path 
 
-In this assignment, you are to implement the Bellman Ford algorithm to find the shortest path from a source vertex to all other vertices in the graph.
+In this assignment, you are to implement the [Bellman Ford algorithm](https://fahadsultan.com/csc223/datastructs/graphs_bellmanford.html) to find the shortest path from a source vertex to all other vertices in the graph.
 
 ### 1b. Negative Cycle Detection
 
@@ -57,11 +57,11 @@ Implement the Kruskal's and Prim's algorithms to find the minimum spanning tree 
 
 ### 2a. Prim's Algorithm
 
-Implement the Prim's algorithm to find the minimum spanning tree of a graph using a priority queue.
+Implement the [Prim's algorithm](https://fahadsultan.com/csc223/datastructs/graphs_prim.html) to find the minimum spanning tree of a graph using a priority queue.
 
 ### 2b. Kruskal's Algorithm
 
-Implement the Kruskal's algorithm to find the minimum spanning tree of a graph. 
+Implement the [Kruskal's algorithm](https://fahadsultan.com/csc223/datastructs/graphs_kruskal.html) to find the minimum spanning tree of a graph. 
 
 ---
 
